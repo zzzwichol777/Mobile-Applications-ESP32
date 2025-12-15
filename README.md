@@ -95,3 +95,4 @@ Los códigos para los microcontroladores ESP32 se encuentran en la carpeta `ESP3
 ## 📄 Licencia
 
 Proyectos de código abierto para fines educativos.
+José Luis OP.
